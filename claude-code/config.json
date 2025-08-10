@@ -1,0 +1,19 @@
+{
+  "LOG": false,
+  "OPENAI_API_KEY": "",
+  "OPENAI_BASE_URL": "",
+  "OPENAI_MODEL": "",
+  "Providers": [
+    {
+      "name": "",
+      "api_base_url": "",
+      "api_key": "",
+      "models": [
+        ""
+      ]
+    }
+  ],
+  "Router": {
+    "default": ","
+  }
+}
